@@ -3,5 +3,5 @@
 
 
 
-### 实例效果：[ https://muguilin.github.io/mu-ueditor/]( https://muguilin.github.io/mu-ueditor/)
+### 实例效果：[ https://muguilin.github.io/mu-ueditor/]( https://muguilin.github.io/mu-ueditor/utf8-php)
 
